@@ -1,1 +1,1 @@
-Hello, World! EDX Demo with Sunil
+Hello, World!
