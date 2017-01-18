@@ -1,1 +1,1 @@
-Hello, World! This is a new test
+Hello, World! EDX Demo
