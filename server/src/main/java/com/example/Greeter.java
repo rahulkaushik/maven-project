@@ -15,8 +15,9 @@ public class Greeter {
   /**
    * @param someone the name of a person
    * @return greeting string
+   * This is a line addition test
    */
    public final String greet(final String someone) {
-    return String.format("Hello, %s!", someone);
+    return String.format("Hello test user, %s!", someone);
   }
 }
